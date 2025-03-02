@@ -1,1 +1,1 @@
-#This is my schoolRepo.
+# This is my schoolRepo.
